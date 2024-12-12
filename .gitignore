@@ -1,3 +1,10 @@
 data
 yolo_model
 data_half_fps_handlabel
+runs
+custom_datasets
+custom_datasets.zip
+custom_datasets_bonus
+custom_datasets_bonus_paetong
+dummy.pgn
+*.pt
